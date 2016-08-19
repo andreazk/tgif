@@ -7,3 +7,4 @@ List for the weekend
 * Meditate on the Balcony
 * Go for a drive
 * Sleeeeeep
+* Watch a movie
